@@ -17,7 +17,7 @@ else:
 
 if __name__ == "__main__":
     plugins = dict(root="plugins")
-    bot = Client(EsillaRobot
+    bot = Client(@thagiyev
         "pmbot",
         bot_token=Config.6838039674:AAFepR2b-U1Sjjztwx4AUQhwAuEQs2GKRqk,
         api_id=Config.12349641,
